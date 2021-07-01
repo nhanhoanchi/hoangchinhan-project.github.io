@@ -77,6 +77,9 @@ button, input, textarea {
 a, area, button, input, label, select, summary, textarea {
     touch-action: manipulation;
 }
+a.product-name-link{
+ color: black;
+}
 .header-btn-link {
     align-items: center;
     border-radius: 3px;
@@ -173,6 +176,7 @@ nav {
 .header-btn-link_marketplace {
     background: #fff;
     color: #243238;
+    margin-left: 15px;
 }
 .header_sub-menu {
     border-bottom: 1px solid #d1d8db;
